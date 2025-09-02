@@ -47,7 +47,9 @@ header {
 .item{
     background: #98deaf;
     display: inline-block;
+    font-size: 1rem;
 }
+
 
 .item h3{
     display: inline-block;
@@ -62,6 +64,8 @@ header {
     margin-left: 200px;
     margin-top: 40px;
 }
+
+
 
 footer {
   width: 100%;
